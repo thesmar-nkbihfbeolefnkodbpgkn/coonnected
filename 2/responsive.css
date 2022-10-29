@@ -1,0 +1,290 @@
+/* @media (min-width: 1600px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1520px !important;
+    }
+}
+@media (min-width: 1700px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1620px !important;
+    }
+    
+} */
+@media only screen and (max-width: 1699px) {
+    .carousel .owl_custom-nav .owl_custom-prev {
+        min-width: 50px;
+    }
+    .carousel .owl_custom-nav .owl_custom-next {
+        min-width: 50px;
+    }
+    /* .carousel .owl_custom-nav .owl_custom-prev .btn-triangle-left {
+        left: 10px;
+    } */
+    /* .carousel .owl_custom-nav .owl_custom-next .btn-triangle-right{
+        right: 10px;
+    } */
+    /* .carousel .custom_slider {
+        max-width: 95%;
+    } */
+    .carousel #product_slider .carousel-card .carousel-card_container .carousel-footer_section .btn-hntr.btn-yellow .im-fluid {
+        max-width: 20px;
+    }
+    /* .carousel #product_slider .carousel-card .carousel-card_container .carousel-footer_section .btn-hntr.btn-yellow span {
+        font-size: 26px;
+        margin-left: 5px;
+        margin-top: 4px;
+    } */
+    /* .carousel #product_slider .carousel-card .carousel-card_container .carousel-footer_section .product_price {
+        font-size: 20px;
+    } */
+    /* .carousel #product_slider .carousel-card .carousel-card_container .carousel-footer_section .btn-buynow.btn-red {
+        font-size: 20px;
+    } */
+    .carousel #product_slider .carousel-card .carousel-card_container .carousel-img_section .product_title {
+        bottom: 10px;
+        font-size: 25px;
+    }
+    .carousel #product_slider2 .carousel-card {
+        padding: 35px 10px;
+    }
+    footer .footer-section .footer_widget_heading {font-size: 17px;}
+    /* .Home-page-banner-section .gun-bg-container .content-container .Home-page-banner_colored_h3 {font-size: 34px;} */
+    
+}
+
+/* @media only screen and (max-width: 1390px) {
+    .header-bar .navbar .nav-link {
+        margin-right: 30px;
+    }
+} */
+
+@media only screen and (max-width: 1080px) {
+    .header-bar .navbar .hntr-logo .brand-logo-img {
+        max-width: 50px;
+    }
+    .header-bar .navbar .hntr-logo {
+        font-size: 35px;
+    }
+    .header-bar .navbar .nav-link {
+        padding: 20px 8px !important;
+        font-size: 16px;
+        /* margin-right: 8px; */
+    }
+    .article-section .hero-content {max-width: 100%;}
+}
+
+@media only screen and (max-width: 1000px) {
+    .container-fullwidth .menu_header {
+        padding: 0px;
+    }
+    .header-bar .navbar .hntr-logo {
+        font-size: 30px;
+    }
+    .header-bar .site-logo {
+        min-width: 250px;
+        margin: 0px 0 0px 0;
+    }
+    .header-bar .navbar .hntr-logo .brand-logo-img {
+        max-width: 40px;
+        width: 100%;
+    }
+    ul.navbar-nav.ms-auto {
+        margin-top: 25px;
+        text-align: center;
+    }
+    /* .header-bar .navbar .active {
+        color: #FA9F09 !important;
+    } */
+    .header-bar .navbar .nav-link {
+        padding: 15px 5px !important;
+        width: 100%;
+    }
+    .d-flex.ms-lg-4 {
+        margin-bottom: 30px;
+    }
+    div#navbarHunterWebsite {
+        /* background: #000;
+        margin-top: 10px;
+        width: 100%; */
+        /* margin-left: -15px;
+        margin-right: -15px; */
+    }
+    .login_btn_section {
+        width: 100%;
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .buy_hntr_section {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .d-flex.on_mobilecls {
+        margin-bottom: 0px;
+        /* display: block !important; */
+    }
+    .carousel #product_slider .carousel-card {
+        padding: 35px 10px;
+    }
+}
+.full_width_img {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+}
+.width-75{
+    margin: 20px auto 10px !important;
+}
+.map_location{
+    max-width: 100%;
+}
+.desktop_content {
+    display: block !important;
+}
+.mobile_content {
+    display: none !important;
+}
+@media only screen and (max-width: 991px) {
+.s_advisoryTeam .innerSection .items .armsContent .content .heading {padding-top: 0px;}
+.carousel-top-section .cts-content {max-width: 100%;}
+.d-flex.on_mobilecls {display: block !important;}
+}
+@media only screen and (max-width: 768px) {
+    .desktop_content {
+        display: none !important;
+    }
+    .mobile_content {
+        display: block !important;
+    }
+    .s_aboutUs .mobile_content .s_cards {
+        display: block !important;
+    }
+    .s_aboutUs .mobile_content .cards{
+        max-width: 250px;
+        margin: 0 10px !important;
+    }
+    footer .footer-section .newsletter-col .iconify-space-around .iconify {
+        font-size: 35px;
+      }
+      .width-75 {max-width: 100%;}
+      .s_collabSection,
+      .article-section {
+        padding: 40px 0%;
+    }
+    /* .s_advisoryTeam .innerSection {
+        padding: 0px 24px;
+    } */
+    .digitalArmory-section .content-container {
+        width: 100%;}
+        .s_chooseWorkWithUs .mask .career_cards .cards {max-width: 100%;}
+        .s_advisoryTeam .innerSection .items .armsContent .content {
+            padding: 40px 20px;}
+            .s_collabSection .headingCollab {
+                /* font-size: 22px; */
+                padding-top: 0%;
+            }
+            .hero-content-section .hero-content {max-width: 100%;padding: 0px;}
+            .Home-page-banner-section .gun-bg-container {
+                padding: 30px 15px;
+            }
+            .header-bar .menu_header {padding: 0px 0px !important;}
+            .header-bar .menu_header {padding: 5px 0px !important;}
+            div#navbarHunterWebsite {margin-top: 10px;}
+            .home section.header-bar.sticky_header .container {
+                padding-left: 5px;
+                padding-right: 5px;
+            }
+            .header-bar .site-logo {padding-left: 5px;}
+}
+@media screen and (max-width:1920px) and (min-width:991px) {
+    /* footer .footer-section .footer_widget_heading {min-height:45px;} */
+} 
+@media screen and (max-width: 767px){
+    .s_aboutUs .mobile_content .s_cards {
+        display: block !important;
+    }
+    footer .footer-bar {padding-left:0px;padding-right:0px;}
+  footer .footer-bar .footer-bar-links ul {justify-content: center;padding:0px;flex-wrap: wrap;}
+  footer .footer-section .newsletter_widget .newsletter-col .container.d-flex.iconify-space-around.mt-4 {
+    padding: 0px;
+}
+.map-section .iframe {width: 100% !important;height: 300px;}
+/* .Home-page-banner-section .gun-bg-container .content-container .Home-page-banner_colored_h3 {font-size: 27px;} */
+.Home-page-banner-section .gun-bg-container {
+    padding: 30px 30px;
+}
+.s_aboutUs .cards .image {width: 150px;height: 150px;margin: auto;margin-bottom: 20px;}
+.page-id-32 .dividedtwo, .page-id-50 .dividedtwo {gap: 0px;flex-wrap: wrap;margin-top:20px;}
+.page-id-32 .dividedtwo .content-p, .page-id-50 .dividedtwo .content-p {
+    flex: 100%;text-align: center;
+}
+.page-id-32 .hero-content-section .hero-content .content-p p, .page-id-50 .hero-content-section .hero-content .content-p p {
+    text-align: center !important;
+}
+.hero-content-section .hero-content .white-h2 {
+    font-size: 26px;
+}
+/* .page-id-32 .wp-block-lazyblock-hntr-img-text-block .s_advisoryTeam:first-child .items,
+.page-id-48 .s_advisoryTeam .innerSection .items {flex-direction: column-reverse;} */
+.header-bar .site-logo {min-width: 200px;}
+}
+
+@media only screen and (max-width: 600px) {
+    /* section.s_collabSection.collaboration_slider_section{
+        padding-bottom: 10px;
+    } */
+    .carousel .owl_custom-nav .owl_custom-prev {
+        min-width: 28px;
+    }
+    .carousel .owl_custom-nav .owl_custom-next {
+        min-width: 28px;
+    }
+    /* .carousel .owl_custom-nav .owl_custom-prev .btn-triangle-left {
+        left: 7px;
+    } */
+    /* .carousel .owl_custom-nav .owl_custom-next .btn-triangle-right{
+        right: 7px;
+    } */
+    .carousel .owl_custom-nav .owl_custom-prev .btn-triangle-left {
+        border-top: 15px solid transparent;
+        border-right: 10px solid #eeeeee;
+        border-bottom: 15px solid transparent;
+    }
+    .carousel .owl_custom-nav .owl_custom-next .btn-triangle-right {
+        border-top: 15px solid transparent;
+        border-left: 10px solid #eeeeee;
+        border-bottom: 15px solid transparent;
+    }
+    footer .footer-section .newsletter-col .iconify-space-around .iconify {
+        font-size: 25px;
+    }
+}
+.article-section .all_articles {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.article-section .all_articles .all_article_tag {
+    font-family: "Menlo", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: #f9bb3d;
+    text-decoration: underline;
+}
+@media screen and (max-width:425px) {
+    .s_advisoryTeam .innerSection .items .armsContent .content .heading,
+    .orange_heading,
+    .digitalArmory-section .content-container .Home-page-banner_h2 {
+        font-size: 18px;
+    }
+    
+}
